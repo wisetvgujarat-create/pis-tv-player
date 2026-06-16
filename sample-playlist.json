@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "loop": true,
+  "items": [
+    {
+      "id": "bunny",
+      "type": "video",
+      "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+    },
+    {
+      "id": "elephants",
+      "type": "video",
+      "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+    },
+    {
+      "id": "hls-demo",
+      "type": "hls",
+      "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
+    }
+  ]
+}
